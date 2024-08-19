@@ -1,14 +1,14 @@
 ## Overview
 
-Flashcard AI SaaS is a web application designed to help users create, manage, and review flashcards using advanced AI features. The application leverages AI to generate, customize, and analyze flashcards, making studying more efficient and effective.
+Using cutting-edge AI features, Flashcard AI SaaS is a web service that assists users in creating, managing, and reviewing flashcards. The program uses artificial intelligence (AI) to create, alter, and evaluate flashcards, improving the effectiveness and efficiency of studying.
 
 ## Features
-
-- **AI-Powered Flashcards**: Automatically generate flashcards based on user input and AI suggestions.
-- **Customizable Flashcards**: Create and modify flashcards with personalized content.
-- **Review Modes**: Various review modes including spaced repetition to enhance learning.
+- **AI-Powered Flashcards**: These flashcards are created automatically by combining AI recommendations with human input.
+- **Customizable Flashcards**: Make and edit flashcards with unique text.
+- **Review Modes**: There are several review modes, such as spaced repetition to improve learning.
 - **Analytics**: Track progress and performance with detailed analytics and insights.
-- **User Authentication**: Secure login and user management.
+- **User Authentication**: Safe user administration and log-in.
+
 
 ## Technologies
 
@@ -33,8 +33,8 @@ Flashcard AI SaaS is a web application designed to help users create, manage, an
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/AswinKumar1/flashcard-ai-saas.git
-   cd flashcard-ai-saas
+   git clone https://github.com/fatimaAhmad635/AI-flashcards.git
+   cd AI-flashcards
    ```
 
 2. **Install Dependencies**
