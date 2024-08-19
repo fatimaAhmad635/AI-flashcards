@@ -1,10 +1,3 @@
-# [Flashcard AI SaaS](https://flashcard-ai-saas.vercel.app/)
-[Demo video](https://www.youtube.com/watch?v=h3deLl9D_Ik)
-
-
-![1](assets/1.png)
-
-
 ## Overview
 
 Flashcard AI SaaS is a web application designed to help users create, manage, and review flashcards using advanced AI features. The application leverages AI to generate, customize, and analyze flashcards, making studying more efficient and effective.
