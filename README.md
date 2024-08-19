@@ -1,6 +1,6 @@
 ## Overview
 
-Using cutting-edge AI features, Flashcard AI SaaS is a web service that assists users in creating, managing, and reviewing flashcards. The program uses artificial intelligence (AI) to create, alter, and evaluate flashcards, improving the effectiveness and efficiency of studying.
+Using cutting-edge AI features, Ai flashcards is a web service that assists users in creating, managing, and reviewing flashcards. The program uses artificial intelligence (AI) to create, alter, and evaluate flashcards, improving the effectiveness and efficiency of studying.
 
 ## Features
 - **AI-Powered Flashcards**: These flashcards are created automatically by combining AI recommendations with human input.
